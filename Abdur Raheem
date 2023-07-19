@@ -1,1 +1,4 @@
 git clone https://github.com/yourusername/MyFirstRepository.git
+git add .
+git commit -m "Add hello-world.txt"
+git push origin main
